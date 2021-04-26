@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DataFirstKotlin</string>
+    <string name="push_me">Нажми на меня</string>
+</resources>
